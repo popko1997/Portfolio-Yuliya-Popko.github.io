@@ -1,3 +1,4 @@
+![1997](1997.png)
 Residence: Minsk
 
 Birth date: 01.12.1997
