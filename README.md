@@ -5,13 +5,13 @@ Residence: Minsk
 Birth date: 01.12.1997
 
 Languages: English — Pre-Intermediate(I'm attending a course in Streamline Language School), German — Elementary
-```markdown
-### Academic summary 
+
+## Academic summary 
 
 BSU Lyceum, physical science and mathematics, 2013 – 2015.
 
 BSU, Faculty of Applied Mathematics and Computer Science, Department of Mathematical Modeling and Data Analysis, 2015 – 2019.
-```
+
 ### Technical Skills(while studying at university)
 OS: Windows.
 Languages: Java, C+, C#,  Javascript, ABAP.
