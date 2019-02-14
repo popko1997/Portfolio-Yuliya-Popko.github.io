@@ -20,3 +20,9 @@ Languages: Java, C+, C#,  Javascript, ABAP.
 I go in for sports. Twice a week I go to the gym where I practice Sky Jumping(jump on trampolines).
 I also fond of reading books. My favorite books are adventures and love stories.
 
+
+## My Coding Practice 
+### OOP(Codewars)
+[2.People, people, people](https://www.codewars.com/kata/fun-with-es6-classes-number-1-people-people-people/train/csharp)
+
+
