@@ -26,7 +26,8 @@ I also fond of reading books. My favorite books are adventures and love stories.
 [My Profile](https://www.codewars.com/users/popko1997/completed)
 Basic C# coding
 
-2. +
-3. +
+1.Done
+
+3.Done
 
 
