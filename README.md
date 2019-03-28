@@ -14,7 +14,7 @@ BSU, Faculty of Applied Mathematics and Computer Science, Department of Mathemat
 
 ### Technical Skills(while studying at university)
 OS: Windows.
-Languages: Java, C+, C#,  Javascript, ABAP.
+Languages: Java, C+, C#, ABAP.
 
 ### My personal interests include:
 I go in for sports. Twice a week I go to the gym where I practice Sky Jumping(jump on trampolines).
